@@ -17,6 +17,10 @@ lint.xml
 classes
 gen-external-apklibs
 
+# gradle stuff
+.gradle
+build/
+
 #Maven
 target
 release.properties
